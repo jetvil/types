@@ -50,7 +50,7 @@ jobs:
           node-version: 16.x
           registry-url: https://registry.npmjs.org/
       - name: install npm modules
-      - run: |
+        run: |
           npm ci
       - name: build code base
         run: |
