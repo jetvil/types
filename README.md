@@ -6,4 +6,5 @@
 [![GitHub](https://img.shields.io/github/license/jetvil/types?style=for-the-badge)](https://github.com/jetvil/types/blob/main/LICENSE)&nbsp;
 [![GitHub Repo stars](https://img.shields.io/github/stars/jetvil/types?color=E9E9E9&logo=Github&style=for-the-badge)](https://www.github.com/jetvil/types)&nbsp;
 [![GitHub issues](https://img.shields.io/github/issues-raw/jetvil/types?label=issues&style=for-the-badge)](https://github.com/jetvil/types/issues)&nbsp;
+
 ✅ Type validation for ES6+ and Typescript projects
