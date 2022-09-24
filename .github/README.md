@@ -73,7 +73,8 @@ isFalsy(1); // false
 
 #### **isFalsyExtended**:
 
-Made from ['Falsy MDN defenition'](https://developer.mozilla.org/en-US/docs/Glossary/Falsy).</br>
+Made from ['Falsy MDN defenition'](https://developer.mozilla.org/en-US/docs/Glossary/Falsy).
+
 Also includes Array and object checking.
 
 ```js
@@ -86,7 +87,8 @@ isFalsyExtended({}); // true
 
 #### **isTruthy**:
 
-Everything not falsy is truthy. </br>
+Everything not falsy is truthy.
+
 Made from ['Truthy MDN defenition'](https://developer.mozilla.org/en-US/docs/Glossary/Truthy)
 
 ```js
@@ -97,7 +99,8 @@ isTruthy(0); // false
 
 #### **isTruthyExtended**:
 
-Everything not falsy is truthy. </br>
+Everything not falsy is truthy.
+
 Made from ['Truthy MDN defenition'](https://developer.mozilla.org/en-US/docs/Glossary/Truthy)
 Also includes Array and object checking.
 
@@ -200,3 +203,19 @@ isExtendable(frozenArray); // false
 
 isExtendable(1 /**anything else then object or array */); // throws error
 ```
+
+# Contributing
+
+Found a bug🦟? or want to suggest a new feature🆕? or just want to help🆘?
+
+Feel free to open an issue or a pull request.
+
+Contributions are always welcome!🎉
+
+- Fork the project [here](https://github.com/jetvil/core/fork).
+- Create a new branch like this: `git checkout -b feature/featureName`.
+- Commit your changes to your branch: `git commit -m 'Create AwesomeFeature'`⚙️.
+- Push your branch: `git push origin feature/featureName`.
+- Open a pull request on the `dev` branch [here](https://github.com/jetvil/core/pulls)🔃.
+
+📒**Note:** Make sure to add tests for your changes ✅.
