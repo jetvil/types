@@ -1,4 +1,4 @@
-import isTruthyExtended from "../../src/lib/types/isTruthyExtended";
+import isTruthyExtended from "../../src/lib/validate/types/isTruthyExtended";
 describe("isTruthyExtended", () => {
   it("should return false for empty array", () => {
     expect(isTruthyExtended([])).toBe(false);

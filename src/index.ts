@@ -1,12 +1,12 @@
 // types
-export { isFalsy } from "./lib/types/isFalsy";
-export { isTruthy } from "./lib/types/isTruthy";
-export { isFalsyExtended } from "./lib/types/isFalsyExtended";
-export { isTruthyExtended } from "./lib/types/isTruthyExtended";
-export { isNullish } from "./lib/types/isNullish";
-export { isString } from "./lib/types/isString";
-export { isNumber } from "./lib/types/isNumber";
-export { isBoolean } from "./lib/types/isBoolean";
-export { isExtendable } from "./lib/types/isExtendable";
-export { isRegExp } from "./lib/types/isRegExp";
-export { isDate } from "./lib/types/isDate";
+export { default as isFalsy } from "./lib/validate/types/isFalsy";
+export { default as isTruthy } from "./lib/validate/types/isTruthy";
+export { default as isFalsyExtended } from "./lib/validate/types/isFalsyExtended";
+export { default as isTruthyExtended } from "./lib/validate/types/isTruthyExtended";
+export { default as isNullish } from "./lib/validate/types/isNullish";
+export { default as isString } from "./lib/validate/types/isString";
+export { default as isNumber } from "./lib/validate/types/isNumber";
+export { default as isBoolean } from "./lib/validate/types/isBoolean";
+export { default as isExtendable } from "./lib/validate/types/isExtendable";
+export { default as isRegExp } from "./lib/validate/types/isRegExp";
+export { default as isDate } from "./lib/validate/types/isDate";

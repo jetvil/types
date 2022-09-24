@@ -1,4 +1,4 @@
-import isExtendable from "../../src/lib/types/isExtendable";
+import isExtendable from "../../src/lib/validate/types/isExtendable";
 describe("isExtendable", () => {
   test("should return true for an object", () => {
     expect(isExtendable({})).toBe(true);

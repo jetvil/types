@@ -1,4 +1,4 @@
-import isString from "../../src/lib/types/isString";
+import isString from "../../src/lib/validate/types/isString";
 describe("isString", () => {
   it("should return true for 'string'", () => {
     expect(isString("string")).toBe(true);

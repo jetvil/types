@@ -1,4 +1,4 @@
-import isNullish from "../../src/lib/types/isNullish";
+import isNullish from "../../src/lib/validate/types/isNullish";
 describe("isNullish", () => {
   it("should return true for null", () => {
     expect(isNullish(null)).toBe(true);

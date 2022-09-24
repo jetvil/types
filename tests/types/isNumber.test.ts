@@ -1,4 +1,4 @@
-import isNumber from "../../src/lib/types/isNumber";
+import isNumber from "../../src/lib/validate/types/isNumber";
 
 describe("isNumber", () => {
   it("should return true for 1", () => {

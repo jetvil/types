@@ -1,4 +1,4 @@
-import isDate from "../../src/lib/types/isDate";
+import isDate from "../../src/lib/validate/types/isDate";
 
 describe("isDate", () => {
   it("should return true when value is a Date instance", () => {

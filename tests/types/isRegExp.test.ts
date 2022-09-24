@@ -1,4 +1,4 @@
-import isRegExp from "../../src/lib/types/isRegExp";
+import isRegExp from "../../src/lib/validate/types/isRegExp";
 
 describe("isRegExp", () => {
   it("should return true for /test/", () => {

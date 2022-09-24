@@ -1,4 +1,4 @@
-import isFalsy from "../../src/lib/types/isFalsy";
+import isFalsy from "../../src/lib/validate/types/isFalsy";
 describe("isFalsy", () => {
   it("should return true for undefined", () => {
     expect(isFalsy(undefined)).toBe(true);
