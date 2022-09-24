@@ -1,6 +1,6 @@
 {
   "name": "@jetvil/types",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "✅ Type validation for ES6+ and Typescript projects",
   "main": "./dist/index.js",
   "scripts": {

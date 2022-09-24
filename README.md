@@ -9,9 +9,10 @@
 
 ✅ Type validation for ES6+ and Typescript projects
 
-- 🚀**Easy to use**: Easy to install in your project.
-- ✅**ES6+ && TS**: TypeScript and ES6+ support(JS).
-- 📦**No dependencies**: You don't depend on anything else.
+- 🚀 **Easy to use**: Easy to install in your project.
+- ✅ **ES6+ && TS**: TypeScript and ES6+ support(JS).
+- 📦 **No dependencies**: You don't depend on anything else.
+- 💵 **Free**: It's free and always will be, the beauty of open source.
 
 ## Getting Started
 

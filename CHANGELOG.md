@@ -1,7 +1,8 @@
-## > 0.1.6
+## > 0.1.6, 0.1.7
 
 - Package restructuring to allow for better tree-shaking
 - Made import {default as } instead of import {} to allow for better tree-shaking
+- Updated Readme with more accurate information.
 
 # 0.1.0
 

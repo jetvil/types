@@ -13,10 +13,11 @@ Also available in [@jetvil/core](https://npmjs.com/package/@jetvil/core)
 
 # Features
 
-- 🚀**Easy to use**: Easy to install in your project.
-- ✅**ES6+ && TS**: TypeScript and ES6+ support(JS).
-- 🐭**Small footprint**: With less then 10kb, you won't even notice.
-- 📦**No dependencies**: You don't depend on anything else.
+- 🚀 **Easy to use**: Easy to install in your project.
+- ✅ **ES6+ && TS**: TypeScript and ES6+ support(JS).
+- 🐭 **Small footprint**: With less then 10kb, you won't even notice.
+- 📦 **No dependencies**: You don't depend on anything else.
+- 💵 **Free**: It's free and always will be, the beauty of open source.
 
 # Getting Started
 
