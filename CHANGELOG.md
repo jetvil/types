@@ -1,3 +1,8 @@
+## 0.1.8
+
+- Readme updated with `Features` title.
+- Updated so each folder has its own index file to import from.
+
 ## > 0.1.6, 0.1.7
 
 - Package restructuring to allow for better tree-shaking
