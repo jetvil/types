@@ -1,6 +1,6 @@
 {
   "name": "@jetvil/types",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "✅ Type validation for ES6+ and Typescript projects",
   "main": "./dist/index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "build": "tsc",
     "build:watch": "tsc --watch",
     "lint": "eslint src --ext .ts",
-    "check:ci": "npx ts-node ./check-ci-version.ts"
+    "check:ci": "npx @jetvil/cli version --package @jetvil/types"
   },
   "repository": {
     "type": "git",
